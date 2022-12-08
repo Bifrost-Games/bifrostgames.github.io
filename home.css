@@ -1,7 +1,6 @@
  .u-section-1 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url("images/3459d6ec9aedd3411aefe16c3801fe9932c5e32663d7a853af3ef1b8cd9f4c753993cdd50eb91b43bdff42406f9f50a1cab55465044c6e69afa26b_1280.jpg");
   min-height: 569px;
-  background-position: 50% 50%;
 }
 
 .u-section-1 .u-text-1 {
@@ -27,6 +26,10 @@
 }
 
 @media (max-width: 1199px) {
+   .u-section-1 {
+    background-position: 50% 50%;
+  }
+
   .u-section-1 .u-text-1 {
     margin-left: calc(((100% - 940px) / 2) + 343px);
   }
