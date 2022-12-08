@@ -171,7 +171,14 @@
 
 @media (max-width: 575px) {
   .u-section-1 .u-list-1 {
-    width: 340px;
+    margin-bottom: 0;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
+  .u-section-1 .u-repeater-1 {
+    min-height: 1203px;
   }
 }
 
