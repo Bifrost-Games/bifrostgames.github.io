@@ -68,7 +68,7 @@
 }
 
 .u-section-2 .u-btn-1 {
-  border-style: none none solid;
+  border-style: solid;
   text-transform: uppercase;
   font-size: 0.875rem;
   letter-spacing: 1px;
@@ -97,7 +97,7 @@
 }
 
 .u-section-2 .u-btn-2 {
-  border-style: none none solid;
+  border-style: solid;
   text-transform: uppercase;
   font-size: 0.875rem;
   letter-spacing: 1px;
@@ -126,7 +126,7 @@
 }
 
 .u-section-2 .u-btn-3 {
-  border-style: none none solid;
+  border-style: solid;
   text-transform: uppercase;
   font-size: 0.875rem;
   letter-spacing: 1px;
